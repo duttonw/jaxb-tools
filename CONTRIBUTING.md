@@ -24,5 +24,5 @@ This projects works with data in mulitple file types-- .java, .xml, .xjb, etc.
 
 Yes, using tabs saves in file size. 4-character spacing is the general consensus for Java programming.
 
-However, the general sentiment has moved to 2 spaces for non-code files (.xml, .json, .yaml, etc) and having different whitespace charcaters for different file types is just weird.
+However, the general sentiment has moved to 2 spaces for non-code files (.xml, .json, .yaml, etc) and having different whitespace characters for different file types is just weird.
 

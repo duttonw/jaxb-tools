@@ -33,8 +33,18 @@
       <artifactId>javaparser-core</artifactId>
     </dependency>
     <dependency>
+      <groupId>com.github.spotbugs</groupId>
+      <artifactId>spotbugs-annotations</artifactId>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
       <groupId>org.jvnet.jaxb</groupId>
       <artifactId>jaxb-maven-plugin-testing</artifactId>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.mockito</groupId>
+      <artifactId>mockito-core</artifactId>
       <scope>test</scope>
     </dependency>
   </dependencies>
